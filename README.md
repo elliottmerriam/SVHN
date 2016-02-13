@@ -1,6 +1,6 @@
 # ConvNet-for-SVHN
 
-Python for classifying 32x32 pixel Google Street View House Number (SVHN) images
+IPython notebook for classifying 32x32 pixel Google Street View House Number (SVHN) images
 (see http://ufldl.stanford.edu/housenumbers/) using a convolutional neural network (CNN) model 
 with a logistic-regression based classifier as the final step.
 
